@@ -9,6 +9,7 @@
 This project involves analyzing and visualizing pet data. The tasks performed as per the instructions include data loading, cleaning, and generating various visualizations to gain insights into the dataset.
 
 Environment Setup Instructions
+
 To run this project, you need to install the following Python libraries:
 
 - pip install pandas
@@ -20,10 +21,11 @@ To run this project, you need to install the following Python libraries:
 Running the Project
 To run the project, you only need to run two scripts using the terminal:
 
-python pet.py
-python price_and_feature.py
+- python pet.py
+- python price_and_feature.py
 
 Project Details
+
 Data Loading and Cleaning
 - File: load_data.py
 - This script loads the pet data from a CSV file and handles any missing values by filling them.
@@ -41,6 +43,7 @@ Main Script
 - This script takes care of all the data loading, cleaning, and initial analysis, printing the results to the console.
 
 Visualizing Data
+
 - File: price_and_feature.py
 - This script generates various visualizations:
   - Price Distribution: Shows the distribution of pet prices.
@@ -49,6 +52,7 @@ Visualizing Data
   - Age Distribution by Species: Uses Plotly to show the distribution of pet ages by species.
 
 Unit Tests
+
 - File: project_test_bonus.py
 - This script includes unit tests for the key functions to make sure that they work correctly.
 
