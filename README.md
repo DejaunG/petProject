@@ -12,9 +12,13 @@ Environment Setup Instructions
 To run this project, you need to install the following Python libraries:
 
 pip install pandas
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install plotly
+
 pip install -U kaleido
 
 Running the Project
