@@ -11,15 +11,11 @@ This project involves analyzing and visualizing pet data. The tasks performed as
 Environment Setup Instructions
 To run this project, you need to install the following Python libraries:
 
-pip install pandas
-
-pip install matplotlib
-
-pip install seaborn
-
-pip install plotly
-
-pip install -U kaleido
+- pip install pandas
+- pip install matplotlib
+- pip install seaborn
+- pip install plotly
+- pip install -U kaleido
 
 Running the Project
 To run the project, you only need to run two scripts using the terminal:
